@@ -1,0 +1,5 @@
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Samannita1396/fresher.git
+git push -u origin master
